@@ -1,4 +1,4 @@
-<h1>Fall 2021 - Computing and Simulation for Autonomy</h1>
+<h1>AuE8930 - Computing and Simulation for Autonomy</h1>
 <h2>Course Information</h2>
 
 ![0001](https://user-images.githubusercontent.com/83747696/160185073-2c8639c5-4d2b-4a3f-8076-143d1ee8a6eb.jpg)
