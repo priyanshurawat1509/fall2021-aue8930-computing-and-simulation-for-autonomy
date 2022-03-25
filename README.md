@@ -1,5 +1,5 @@
-<h1>Course Information</h1>
-<h2>Fall 2021</h2>
+<h1>Fall 2021</h2>
+<h2>Course Information</h1>
 
 ![0001](https://user-images.githubusercontent.com/83747696/160185073-2c8639c5-4d2b-4a3f-8076-143d1ee8a6eb.jpg)
 ![0002](https://user-images.githubusercontent.com/83747696/160185075-7da601c4-3da7-437b-8512-15b3c1febf0d.jpg)
