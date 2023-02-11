@@ -1,7 +1,15 @@
 # high-performance-computing-and-simulation-for-autonomy
 
+This repository includes the assignments for the `High Performace Computing and Simulation for Autonomy` course completed on the following topics :
 
-![0001](https://user-images.githubusercontent.com/83747696/160185073-2c8639c5-4d2b-4a3f-8076-143d1ee8a6eb.jpg)
-![0002](https://user-images.githubusercontent.com/83747696/160185075-7da601c4-3da7-437b-8512-15b3c1febf0d.jpg)
-![0003](https://user-images.githubusercontent.com/83747696/160185077-084520ce-6881-42fa-9429-0028079efbcd.jpg)
+- Working with Palmetto Cluster (Clemson University's supercomputer),
+- OOP, algorithms, data structures,
+- Linux and development tools, git
+- Pthreads, OpenMP
+- ROS, Autoware
+- CUDA GPU computing
+- OpenCL, Edge AI computing
+- Deep learning programming libraries
+- Simulation tools: CARLA, LGSVL
 
+All projects/assignments were completed using Python/C++, CUDA, and libraries like: Pytorch, OpenCV, Numpy.
