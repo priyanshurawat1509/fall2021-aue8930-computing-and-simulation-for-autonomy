@@ -10,6 +10,6 @@ This repository includes the assignments for the `High Performace Computing and 
 - CUDA GPU computing,
 - OpenCL, Edge AI computing,
 - Deep learning programming libraries,
-- Simulation tools: CARLA, LGSVL
+- Simulation tools: CARLA, LGSVL 
 
 All projects/assignments were completed using Python/C++, CUDA, and libraries like: Pytorch, OpenCV, Numpy.
